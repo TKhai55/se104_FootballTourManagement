@@ -66,3 +66,17 @@ giúp cho người dùng dễ dàng báo cáo với cấp trên.
 ### Lập báo cáo
 * Lập báo cáo
 * Xuất báo cáo sang exel
+## Cài đặt
+Nhập câu lệnh trong terminal của mỗi folder trước khi khởi động
+```sh
+npm install
+```
+Nhập câu lệnh trong terminal của mỗi folder để khởi động
+```sh
+npm start
+```
+## Thành viên nhóm
+* Võ Đặng Thiện Khải - 20520998 (Nhóm trưởng)
+* Huỳnh Minh Chí - 20521130
+* Nguyễn Duy Linh – 20521533
+* Nguyễn Quốc Huy –  20521404
