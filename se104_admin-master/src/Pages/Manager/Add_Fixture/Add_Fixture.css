@@ -1,0 +1,117 @@
+.add_fixture_container {
+    margin-top: 8.5vh;
+    height: 56.5vh;
+    padding: 5vh 0vh;
+    background-color: #2a2c30;
+}
+
+.add_fixture_table {
+    width: 85%;
+    margin-left: 7.5%;
+    background-color: #3f4249;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+.add_fixture_table .title_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #545861;
+    border-radius: 10px 10px 0px 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.add_fixture_table .title_container img {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    width: 3%;
+}
+
+.add_fixture_table img {
+    margin-left: 15px;
+}
+
+.add_fixture_table .title {
+    font-size: 32px;
+    color: #ffffff;
+    /* margin-left: 490px;
+    margin-top: 7px; */
+}
+
+.add_fixture_table .round_container{
+    margin-top: 20px;
+    margin-left: 15%;
+    color: #ffffff;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.add_fixture_table .label{
+    font-size: 18px;
+    color: #ffffff;
+    width: 120px;
+}
+
+
+.add_fixture_table .input_vongdau{
+    border-radius: 5px;
+    border-color: transparent;
+    text-align: center;
+}
+
+.add_fixture_table .input_flex{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 4%;
+    justify-content: space-around;
+}
+
+.add_fixture_table .input_cotainer{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.add_fixture_table .round_container_flex{
+    display: flex;
+}
+
+.add_fixture_table .input_doibong{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 20px;
+    border-color: transparent;
+    padding: 5px 10px;
+}
+
+.add_fixture_table .input_date{
+    width: 395px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-left: 20px;
+    padding: 5px 10px;
+}
+
+.add_fixture_table .add_schedule_btn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #44B454;
+    color: #ffffff;
+    font-size: 15px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 80%;
+}
+
+.add_fixture_table .add_schedule_btn:hover {
+    background-color: rgb(5, 226, 60);
+
+}

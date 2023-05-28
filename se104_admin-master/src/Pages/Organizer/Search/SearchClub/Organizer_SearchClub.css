@@ -1,0 +1,67 @@
+.OrganizerClub_body{
+    padding-top: 10.5vh;
+    background-color: rgba(84, 88, 97, 0.5);
+}
+.Organizer_SearchClub{
+    margin: 0 12vh;
+    background-color: #848282;
+
+    border: 1px solid #000;
+    border-radius: 0px 0px 10px 10px;
+    min-height: 60vh;
+    height: fit-content;
+    padding: 2vh 4vw 0 4vw;
+
+    display: flex;
+    flex-direction: column;
+}
+.Organizer_header_listClub{
+    height: 50px;
+    padding: 10px;
+
+    background: #CDC9C9;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #494747;
+
+    display: flex;
+}
+#Organizer_content--caulacbo{
+    flex:1;
+}
+#Organizer_content--namthanhlap{
+    flex:1;
+}
+#Organizer_content--san{
+    flex:1;
+}
+.Organizer_list-Club{
+    background-color: #848282;
+    display: flex;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 38px;
+    color: #FFFFFF;
+    align-items: center;
+}
+.Organizer_list-Club:hover{
+    color: #494747;
+    cursor: pointer;
+}
+.Organizer_Club--club{
+    flex:1;
+    display: inline;
+    margin-left: 10px;
+}
+.Organizer_Club--year{
+    flex:1
+}
+.Organizer_Club--stadium{
+    flex:1
+}
